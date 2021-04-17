@@ -5,4 +5,5 @@
 | Longest Substring Without Repeating Characters | [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Longest_Substring |
 | Zigzag Conversion | [🔗](https://leetcode.com/problems/zigzag-conversion/) | Zigzag_Conversion |
 | Reverse Integer | [🔗](https://leetcode.com/problems/reverse-integer/) | Reverse_Integer |
+| Palindrome Number | [🔗](https://leetcode.com/problems/palindrome-number/) | Palindrome |
 
