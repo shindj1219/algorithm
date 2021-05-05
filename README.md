@@ -8,3 +8,6 @@
 | Palindrome Number | [🔗](https://leetcode.com/problems/palindrome-number/) | Palindrome |
 | Container With Most Water | [🔗](https://leetcode.com/problems/container-with-most-water/) | Container_With_Most_Water |
 | Roman To Integer | [🔗](https://leetcode.com/problems/roman-to-integer/) | Roman_To_Integer |
+| Longest Common Prefix | [🔗](https://leetcode.com/problems/longest-common-prefix/) | Longest_Common_Prefix |
+| Valid Parentheses | [🔗](https://leetcode.com/problems/valid-parentheses/) | Valid_Parentheses |
+| Merge Two Sorted Lists | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge_Two_Sorted_Lists |
