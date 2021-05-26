@@ -13,3 +13,4 @@
 | Merge Two Sorted Lists | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge_Two_Sorted_Lists |
 | Remove Duplicates from Sorted Array | [🔗](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Remove_Duplicates_From_Sorted_Array |
 | Remove Element | [🔗](https://leetcode.com/problems/remove-element/) | Remove_Element |
+| Implement strStr() | [🔗](https://leetcode.com/problems/implement-strstr/) | Implement_strStr |
